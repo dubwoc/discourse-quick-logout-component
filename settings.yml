@@ -1,5 +1,5 @@
 logout_icon:
-  default: "sign-out-alt"
+  default: "right-from-bracket"
 
 logout_icon_color:
   default: "var(--primary-medium)"
